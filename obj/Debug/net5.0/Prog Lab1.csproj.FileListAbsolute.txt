@@ -1,0 +1,45 @@
+C:\Users\Настя\source\repos\Prog Lab1\Prog Lab1\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Настя\source\repos\Prog Lab1\Prog Lab1\bin\Debug\net5.0\appsettings.json
+C:\Users\Настя\source\repos\Prog Lab1\Prog Lab1\bin\Debug\net5.0\Prog Lab1.exe
+C:\Users\Настя\source\repos\Prog Lab1\Prog Lab1\bin\Debug\net5.0\Prog Lab1.deps.json
+C:\Users\Настя\source\repos\Prog Lab1\Prog Lab1\bin\Debug\net5.0\Prog Lab1.runtimeconfig.json
+C:\Users\Настя\source\repos\Prog Lab1\Prog Lab1\bin\Debug\net5.0\Prog Lab1.runtimeconfig.dev.json
+C:\Users\Настя\source\repos\Prog Lab1\Prog Lab1\bin\Debug\net5.0\Prog Lab1.dll
+C:\Users\Настя\source\repos\Prog Lab1\Prog Lab1\bin\Debug\net5.0\ref\Prog Lab1.dll
+C:\Users\Настя\source\repos\Prog Lab1\Prog Lab1\bin\Debug\net5.0\Prog Lab1.pdb
+C:\Users\Настя\source\repos\Prog Lab1\Prog Lab1\bin\Debug\net5.0\Prog Lab1.Views.dll
+C:\Users\Настя\source\repos\Prog Lab1\Prog Lab1\bin\Debug\net5.0\Prog Lab1.Views.pdb
+C:\Users\Настя\source\repos\Prog Lab1\Prog Lab1\obj\Debug\net5.0\Prog Lab1.csproj.AssemblyReference.cache
+C:\Users\Настя\source\repos\Prog Lab1\Prog Lab1\obj\Debug\net5.0\Prog Lab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Настя\source\repos\Prog Lab1\Prog Lab1\obj\Debug\net5.0\Prog Lab1.AssemblyInfoInputs.cache
+C:\Users\Настя\source\repos\Prog Lab1\Prog Lab1\obj\Debug\net5.0\Prog Lab1.AssemblyInfo.cs
+C:\Users\Настя\source\repos\Prog Lab1\Prog Lab1\obj\Debug\net5.0\Prog Lab1.csproj.CoreCompileInputs.cache
+C:\Users\Настя\source\repos\Prog Lab1\Prog Lab1\obj\Debug\net5.0\Prog Lab1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Настя\source\repos\Prog Lab1\Prog Lab1\obj\Debug\net5.0\Prog Lab1.RazorAssemblyInfo.cache
+C:\Users\Настя\source\repos\Prog Lab1\Prog Lab1\obj\Debug\net5.0\Prog Lab1.RazorAssemblyInfo.cs
+C:\Users\Настя\source\repos\Prog Lab1\Prog Lab1\obj\Debug\net5.0\staticwebassets\Prog Lab1.StaticWebAssets.Manifest.cache
+C:\Users\Настя\source\repos\Prog Lab1\Prog Lab1\obj\Debug\net5.0\staticwebassets\Prog Lab1.StaticWebAssets.xml
+C:\Users\Настя\source\repos\Prog Lab1\Prog Lab1\obj\Debug\net5.0\scopedcss\bundle\Prog Lab1.styles.css
+C:\Users\Настя\source\repos\Prog Lab1\Prog Lab1\obj\Debug\net5.0\Prog Lab1.TagHelpers.input.cache
+C:\Users\Настя\source\repos\Prog Lab1\Prog Lab1\obj\Debug\net5.0\Prog Lab1.TagHelpers.output.cache
+C:\Users\Настя\source\repos\Prog Lab1\Prog Lab1\obj\Debug\net5.0\Prog Lab1.RazorCoreGenerate.cache
+C:\Users\Настя\source\repos\Prog Lab1\Prog Lab1\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Настя\source\repos\Prog Lab1\Prog Lab1\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Настя\source\repos\Prog Lab1\Prog Lab1\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Настя\source\repos\Prog Lab1\Prog Lab1\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Настя\source\repos\Prog Lab1\Prog Lab1\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Настя\source\repos\Prog Lab1\Prog Lab1\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Настя\source\repos\Prog Lab1\Prog Lab1\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Настя\source\repos\Prog Lab1\Prog Lab1\obj\Debug\net5.0\Prog Lab1.RazorTargetAssemblyInfo.cache
+C:\Users\Настя\source\repos\Prog Lab1\Prog Lab1\obj\Debug\net5.0\Prog Lab1.RazorTargetAssemblyInfo.cs
+C:\Users\Настя\source\repos\Prog Lab1\Prog Lab1\obj\Debug\net5.0\Prog Lab1.Views.pdb
+C:\Users\Настя\source\repos\Prog Lab1\Prog Lab1\obj\Debug\net5.0\Prog Lab1.dll
+C:\Users\Настя\source\repos\Prog Lab1\Prog Lab1\obj\Debug\net5.0\ref\Prog Lab1.dll
+C:\Users\Настя\source\repos\Prog Lab1\Prog Lab1\obj\Debug\net5.0\Prog Lab1.pdb
+C:\Users\Настя\source\repos\Prog Lab1\Prog Lab1\obj\Debug\net5.0\Prog Lab1.genruntimeconfig.cache
+C:\Users\Настя\source\repos\Prog Lab1\Prog Lab1\obj\Debug\net5.0\Prog Lab1.csproj.CopyComplete
+C:\Users\Настя\source\repos\Prog Lab1\Prog Lab1\obj\Debug\net5.0\Razor\Views\Blog\AddForm.cshtml.g.cs
+C:\Users\Настя\source\repos\Prog Lab1\Prog Lab1\obj\Debug\net5.0\Razor\Views\Blog\BlogList.cshtml.g.cs
+C:\Users\Настя\source\repos\Prog Lab1\Prog Lab1\obj\Debug\net5.0\Razor\Views\Blog\ConfirmBlogItem.cshtml.g.cs
+C:\Users\Настя\source\repos\Prog Lab1\Prog Lab1\obj\Debug\net5.0\Razor\Views\Blog\Index.cshtml.g.cs
+C:\Users\Настя\source\repos\Prog Lab1\Prog Lab1\obj\Debug\net5.0\Razor\Views\Blog\EditForm.cshtml.g.cs

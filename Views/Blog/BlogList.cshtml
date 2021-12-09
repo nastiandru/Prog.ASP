@@ -1,0 +1,53 @@
+﻿@model ICollection<Prog_Lab1.Models.BlogItem>
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+<h1>Lista wpisów</h1>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Tytuł
+            </th>
+            <th>
+                Treść
+            </th>
+            <th>
+                Data
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in @Model)
+        {
+            <tr>
+                <td>
+                    @item.Title
+                </td>
+                <td>
+                    @if (item.Content.Length < 50)
+                    {
+                        @item.Content
+                    }
+                    else
+                    {
+                        @item.Content.Substring(50)
+                    }
+                </td>
+                <td>
+                    @item.CreationTimstamp
+                </td>
+                <td>
+                    
+                    <a class="btn btn-primary">Edytuj</a>
+                    <a class="btn btn-primary">Usuń</a>
+                    <a class="btn btn-primary">Szczegóły</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+   
+</table>
