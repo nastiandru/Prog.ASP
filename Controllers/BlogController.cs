@@ -11,6 +11,8 @@ namespace Prog_Lab1.Controllers
 {
     public class BlogController : Controller
     {
+        private ICRUDBlogItemRepository repository;
+
         static List<BlogItem> items = new List<BlogItem>()
         {
             new BlogItem() {Title="Programowanie w ASP.NET", Id = 1, Content ="Przykładowa treść",
