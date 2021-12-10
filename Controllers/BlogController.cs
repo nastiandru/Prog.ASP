@@ -92,6 +92,10 @@ namespace Prog_Lab1.Controllers
                 Content = "TEST",
                 Title = "TEST"
             };
+            item.Tags.Add(item: new Tag { Name = "C#" });
+            item.Tags.Add(item: new Tag { Name = "ASP.NET" });
+            repository.Save(item);
+            return "New BlogItem SAVED";
         }
     }
 }
