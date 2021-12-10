@@ -7,5 +7,6 @@ namespace Prog_Lab1.Models
 {
     public class ApplicationDBContext
     {
+       
     }
 }
