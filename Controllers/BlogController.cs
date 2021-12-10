@@ -84,5 +84,14 @@ namespace Prog_Lab1.Controllers
             }
             return null;
         }
+
+        public String Add()
+        {
+            var item = new BlogItem()
+            {
+                Content = "TEST",
+                Title = "TEST"
+            };
+        }
     }
 }
