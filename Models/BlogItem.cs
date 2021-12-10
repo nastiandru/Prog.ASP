@@ -10,6 +10,11 @@ namespace Prog_Lab1.Models
 {
     public class BlogItem
     {
+        public BlogItem()
+        {
+           Tags = new HashSet<Tag>();
+        }
+
         [HiddenInput]
         public int Id { get; set; }
         [Required(ErrorMessage = "Musisz podać tytuł")]
@@ -19,6 +24,8 @@ namespace Prog_Lab1.Models
 
         public string Content { get; set; }
 
-        public DateTime CreationTimstamp { get; set; }
+        public DateTime CreationTimestamp { get; set; }
+
+        public ICollection<Tag> Tags;
     }
 }
