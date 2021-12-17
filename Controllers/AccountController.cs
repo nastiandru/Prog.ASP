@@ -5,12 +5,25 @@ using System.Linq;
 using System.Threading.Tasks;
 
 namespace Prog_Lab1.Controllers
-{
+{    
+    [Authorize]
     public class AccountController : Controller
     {
-        public IActionResult Index()
+        private UserManager<IdentityUser> _userManager;
+        private SignInManager<IdentityUser> _signInManager;
+        public AccountController(UserManager<IdentityUser> userManager, SignInManager<IdentityUser> signInManager)
         {
-            return View();
+            _userManager = userManager;
+            _signInManager = signInManager;
+        }
+        [AllowAnonymous]
+        [HttpGet]
+        public IActionResult Login(string returnUrl)
+        {
+            return View(new LoginModel
+            {
+                ReturnUrl = returnUrl
+            });
+
         }
     }
-}
